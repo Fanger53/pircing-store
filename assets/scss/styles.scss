@@ -1,8 +1,14 @@
 .gris{
-  background:rgb(92,97,124);
+  background:rgb(92,97,124) !important;
 }
 .top-nav-collapse{
   background: rgba(0, 0, 0, 0.904);
+}
+
+.bg-img {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .row{
@@ -14,10 +20,9 @@
   
 }
 .img_header{
- background-image: url(../Img/_DSC0942_DxO.jpg);
- background-repeat: no-repeat;
- background-size: cover;
- background-position: center;
+ background-image: url(../img/pircings.jpg);
+ width: 100%;
+ height: auto;
 }
 .p_header{
   
